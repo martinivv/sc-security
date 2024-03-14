@@ -1,0 +1,6 @@
+[submodule "spearbit-task"]
+	path = spearbit-task
+	url = https://github.com/martinivv/spearbit-task
+[submodule "ethernaut"]
+	path = ethernaut
+	url = https://github.com/martinivv/ethernaut
